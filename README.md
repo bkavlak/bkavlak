@@ -25,6 +25,9 @@ I am a self-learned data scientist from business management background.
   <a href="https://github.com/paleolimbot/qgisprocess"><img src="https://github.com/paleolimbot/qgisprocess/blob/master/man/figures/qgisprocess_icon.png" width="50px"/></a>
   <a href="https://github.com/h2oai/h2o4gpu"><img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="50px"/></a>
   <a href="https://github.com/pandas-dev/pandas"><img src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" width="50px"/></a>
+  <a href="https://github.com/geopandas/geopandas"><img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_logo.png" width="50px"/></a>
+  <a href="https://github.com/mablab/rpostgis"><img src="https://github.com/mablab/rpostgis/blob/master/man/figures/rpostgis-1024-white.png" width="50px"/></a>
+  <a href="https://github.com/cran/SparkR"><img src="https://whizzkit.nl/wp-content/uploads/2016/10/AAEAAQAAAAAAAAWFAAAAJDA5YmJmMGFjLThjODYtNGE0MC05MTFhLTc2MjRhODhiZDc4Mg-698x380.png" width="50px"/></a>
 </p>
 
 ## 📫 How to reach me
