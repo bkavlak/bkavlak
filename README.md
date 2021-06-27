@@ -23,8 +23,19 @@ I am a self-learned stack data scientist from business management background.
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
 </p>
 
-- Want to know more? [Check my Linkedin Page!](https://www.linkedin.com/in/batuhan-kavlak-05b631a8)
-- Not on my CV, my hobbies! Hiking :mountain: | Reading :books: | Cycling :bicyclist: 
+## 📫 How to reach me
+
+You can find and get in touch with me on below accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/batuhankavlak-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bkavlak/)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bkavlak&show_icons=true&locale=en&layout=compact" alt="bkavlak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bkavlak&show_icons=true&locale=en" alt="bkavlak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkavlak" alt="bkavlak" /></p>
+
 
 <!--
 Here are some ideas to get you started:
