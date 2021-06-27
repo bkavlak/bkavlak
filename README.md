@@ -1,5 +1,9 @@
 ### Hi there, I am Batuhan! 👋
-  
+
+![](https://komarev.com/ghpvc/?username=bkavlak&color=red)
+![](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%bkavlak.bkavlak%2Freadme)
+
+
 I am a self-taught data scientist from business management background.
 
 - :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
