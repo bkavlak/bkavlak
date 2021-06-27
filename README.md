@@ -27,7 +27,7 @@ I am a self-learned stack data scientist from business management background.
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/batuhankavlak-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bkavlak/)
+[![Linkedin Badge](https://img.shields.io/badge/batuhankavlak-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/batuhan-kavlak-05b631a8/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bkavlak&show_icons=true&locale=en&layout=compact" alt="bkavlak" /></p>
