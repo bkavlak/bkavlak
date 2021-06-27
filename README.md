@@ -2,7 +2,7 @@
   
 I am a self-learned stack data scientist from business management background.
 
-- :mag_right: I’m currently working as a data scientist at the [Doktar](https://zgis.at/)
+- :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
   - :earth_africa: We are mostly works with geospatial data using **remote sensing**
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
