@@ -9,12 +9,12 @@ I am a self-learned stack data scientist from business management background.
 - :computer: I specialized in **R** but able to work on **Python** without a hassle.
   - I working on a 📦 for map accuracy assesments, check it out! 
 <p align="center">
-  <a href="https://github.com/bkavlak/bootmap"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="70px"/></a>
+  <a href="https://github.com/bkavlak/bootmap"><img src="https://github.com/bkavlak/datacamp2020-doktar/blob/main/images/doktarhex2.png" width="70px"/></a>
 </p>
 
 ## 🧠 Know / Using
 
-<img src="https://github.com/github/explore/blob/main/topics/r/r.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/npm/npm.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/nuget/nuget.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/r/r.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" /> 
 
   - 📦 I use *mostly* often: 
 <p align="center">
