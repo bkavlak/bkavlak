@@ -1,16 +1,20 @@
 ### Hi there, I am Batuhan! 👋
   
-I am a self-learned full stack data scientist from business management background.
+I am a self-learned stack data scientist from business management background.
 
-- :mag_right: I’m currently working as a researcher at the [Z_GIS](https://zgis.at/) department at the University of Salzburg
-  - :earth_africa: My research is focused on the analysis of **natural hazards** and their related impacts using **remote sensing**
+- :mag_right: I’m currently working as a data scientist at the [Doktar](https://zgis.at/)
+  - :earth_africa: We are mostly works with geospatial data using **remote sensing**
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
-- :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
-  - I co-authored a 📦 for spatial networks analysis, check it out! 
+- :computer: I specialized in **R** but able to work on **Python** without a hassle.
+  - I working on a 📦 for map accuracy assesments, check it out! 
 <p align="center">
-  <a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="70px"/></a>
+  <a href="https://github.com/bkavlak/bootmap"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="70px"/></a>
 </p>
+
+## 🧠 Know / Using
+
+<img src="https://github.com/github/explore/blob/main/topics/r/r.png" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/npm/npm.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/nuget/nuget.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png?raw=true" height="32" />
 
   - 📦 I use *mostly* often: 
 <p align="center">
@@ -24,7 +28,6 @@ I am a self-learned full stack data scientist from business management backgroun
 
 - Want to know more? [Check my Linkedin Page!](https://www.linkedin.com/in/batuhan-kavlak-05b631a8)
 - Not on my CV, my hobbies! Hiking :mountain: | Reading :books: | Cycling :bicyclist: 
-- Find me at: 
 
 <!--
 Here are some ideas to get you started:
