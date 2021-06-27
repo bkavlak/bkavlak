@@ -4,7 +4,7 @@ I am a self-learned data scientist from business management background.
 
 - :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
   - :earth_africa: We are mostly working with geospatial data using **remote sensing**
-- :bike: I also enjoy **sustainable transport** as a research topic and a way of life
+- 🧠 I also enjoy **psychology and epistemology** as a research topic.
 - :hand: I am an advocate of **open science** for **equal opportunities**
 - :computer: I can build data science workflows with **R** or **Python**.
   - I working on a R 📦 for map accuracy assesments, check it out! 
@@ -22,6 +22,8 @@ I am a self-learned data scientist from business management background.
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"><img src="https://raw.githubusercontent.com/tidyverse/dplyr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/paleolimbot/qgisprocess"><img src="https://github.com/paleolimbot/qgisprocess/blob/master/man/figures/qgisprocess_icon.png" width="50px"/></a>
+  <a href="https://github.com/h2oai/h2o4gpu"><img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="50px"/></a>
 </p>
 
 ## 📫 How to reach me
