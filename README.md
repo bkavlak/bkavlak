@@ -3,11 +3,11 @@
 I am a self-learned data scientist from business management background.
 
 - :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
-  - :earth_africa: We are mostly works with geospatial data using **remote sensing**
+  - :earth_africa: We are mostly working with geospatial data using **remote sensing**
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
-- :bar_chart: I am interested in **data visualization** for **scientific communication**
-- :computer: I specialized in **R** but work with **Python** without a hassle.
-  - I working on a 📦 for map accuracy assesments, check it out! 
+- :hand: I am an advocate of **open science** for **equal opportunities**
+- :computer: I can build data science workflows with **R** or **Python**.
+  - I working on a R 📦 for map accuracy assesments, check it out! 
 <p align="center">
   <a href="https://github.com/bkavlak/bootmap"><img src="https://github.com/bkavlak/datacamp2020-doktar/blob/main/images/doktarhex2.png" width="70px"/></a>
 </p>
