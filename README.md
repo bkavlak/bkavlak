@@ -1,6 +1,6 @@
 ### Hi there, I am Batuhan! 👋
   
-I am a self-learned stack data scientist from business management background.
+I am a self-learned data scientist from business management background.
 
 - :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
   - :earth_africa: We are mostly works with geospatial data using **remote sensing**
