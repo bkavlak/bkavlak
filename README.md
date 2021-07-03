@@ -25,6 +25,7 @@ I am a self-taught data scientist from business management background.
 <p align="center">
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"><img src="https://raw.githubusercontent.com/tidyverse/dplyr/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/tidyverse/purrr"><img src="https://github.com/tidyverse/purrr/blob/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/paleolimbot/qgisprocess"><img src="https://github.com/paleolimbot/qgisprocess/blob/master/man/figures/qgisprocess_icon.png" width="50px"/></a>
   <a href="https://github.com/h2oai/h2o4gpu"><img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="50px"/></a>
