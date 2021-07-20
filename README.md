@@ -31,6 +31,7 @@ I am a self-taught data scientist from business management background.
   <a href="https://github.com/h2oai/h2o4gpu"><img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="50px"/></a>
   <a href="https://github.com/pandas-dev/pandas"><img src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" width="50px"/></a>
   <a href="https://github.com/geopandas/geopandas"><img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_logo.png" width="50px"/></a>
+  <a href="https://xarray.pydata.org/en/stable/getting-started-guide/quick-overview.html"><img src="https://xarray.pydata.org/en/stable/_static/dataset-diagram-logo.png" width="50px"/></a>
   <a href="https://github.com/mablab/rpostgis"><img src="https://github.com/mablab/rpostgis/blob/master/man/figures/rpostgis-1024-white.png" width="50px"/></a>
   <a href="https://github.com/cran/SparkR"><img src="https://whizzkit.nl/wp-content/uploads/2016/10/AAEAAQAAAAAAAAWFAAAAJDA5YmJmMGFjLThjODYtNGE0MC05MTFhLTc2MjRhODhiZDc4Mg-698x380.png" width="50px"/></a>
   <a href="https://github.com/bkavlak/AgriGEE"><img src="https://camo.githubusercontent.com/d0d0fede269644fda53cb19eb93c180bf0cce60b048649335082fbf3618adfa0/68747470733a2f2f6561727468656e67696e652e676f6f676c652e636f6d2f7374617469632f696d616765732f65617274682d656e67696e652d6c6f676f2e706e67?raw=true" width="50px"/></a>
