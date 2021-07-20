@@ -6,7 +6,7 @@
 
 I am a self-taught data scientist from business management background.
 
-- :mag_right: I’m currently working as a data scientist at the [Doktar](doktar.com).
+- :mag_right: I’m currently working as a data scientist at the [Doktar](https://doktar.com).
   - :earth_africa: We are mostly working with geospatial data using **remote sensing**
 - 🧠 I also enjoy **psychology and epistemology** as a research topic.
 - :hand: I am an advocate of **open science** for **equal opportunities**
