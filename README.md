@@ -36,6 +36,9 @@ I am a self-taught data scientist from business management background.
   <a href="https://github.com/bkavlak/AgriGEE"><img src="https://camo.githubusercontent.com/d0d0fede269644fda53cb19eb93c180bf0cce60b048649335082fbf3618adfa0/68747470733a2f2f6561727468656e67696e652e676f6f676c652e636f6d2f7374617469632f696d616765732f65617274682d656e67696e652d6c6f676f2e706e67?raw=true" width="50px"/></a>
 </p>
 
+## :monocle_face: I see things differently
+<div align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGFbyQ-JLPeVg/profile-displaybackgroundimage-shrink_350_1400/0/1625814043165?e=1632355200&v=beta&t=cV54ATvjwIWsr_3054O7jt0Bek80v1eHuGa45E0jOig"></div>
+
 ## 📫 How to reach me
 
 You can find and get in touch with me on below accounts!
