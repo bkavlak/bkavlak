@@ -38,7 +38,7 @@ I am a self-taught data scientist from business management background.
 </p>
 
 ## :monocle_face: I see things differently
-<div align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGFbyQ-JLPeVg/profile-displaybackgroundimage-shrink_350_1400/0/1625814043165?e=1632355200&v=beta&t=cV54ATvjwIWsr_3054O7jt0Bek80v1eHuGa45E0jOig"></div>
+<a href="https://github.com/bkavlak/geospatial-artwork"><div align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGFbyQ-JLPeVg/profile-displaybackgroundimage-shrink_350_1400/0/1625814043165?e=1632355200&v=beta&t=cV54ATvjwIWsr_3054O7jt0Bek80v1eHuGa45E0jOig"></div></a>
 
 ## 📫 How to reach me
 
