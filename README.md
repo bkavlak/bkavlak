@@ -12,7 +12,7 @@ I am a self-taught data scientist from business management background.
 - :computer: I can build data science workflows with **R** or **Python**.
   - I am working on a R 📦 for map accuracy assesments, check it out! 
 <p align="center">
-  <a href="https://github.com/bkavlak/bootmap"><img src="https://github.com/bkavlak/bootmap/blob/main/images/bootmap-15-hexagon.png" width="70px"/></a>
+  <a href="https://github.com/bkavlak/bootmap"><img src="https://github.com/bkavlak/bootmap/blob/main/visualizations/bootmap-15-hexagon.png" width="70px"/></a>
 </p>
 
 ## 🧠 Know / Using
