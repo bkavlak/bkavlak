@@ -10,7 +10,7 @@ I am a self-taught data scientist from business management background.
 - 🧠 I also enjoy **psychology and epistemology** as a research topic.
 - :hand: I am an advocate of **open science** for **equal opportunities**.
 - :computer: I can build data science workflows with **R** or **Python**.
-  - I worked on a R for projects like map classification and accuracy assesments, check it out! 
+  - I worked on R & GEE for projects like map classification and accuracy assesments, check it out! 
 <p align="center">
   <a href="https://github.com/bkavlak/bootmap"><img src="https://github.com/bkavlak/bootmap/blob/main/visualizations/bootmap-15-hexagon.png" width="70px"/></a>
 </p>
