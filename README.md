@@ -7,7 +7,7 @@
 I am a self-taught data scientist from business management background.
 
 - :mag_right: I’m currently working as a data science engineer at the [UP42](https://up42.com).
-- 🧠 I also enjoy **psychology and epistemology** as a research topic.
+- :open_book: My main research interest is human perception. I decided to specialize on vision and hearing as the most interesting senses, and focus on image and sound data. Mostly worked on image data while researching and practicing sound data as a hobby.
 - :hand: I am an advocate of **open science** for **equal opportunities**.
 - :computer: I can build data science workflows with **R** or **Python**.
   - I worked on R & GEE for projects like map classification and accuracy assesments, check it out! 
