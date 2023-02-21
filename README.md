@@ -36,7 +36,7 @@ I am a self-taught data scientist from business management background.
 </p>
 
 ## :monocle_face: I see things differently
-<a href="https://github.com/bkavlak/geospatial-artwork"><div align="center"><img src="https://raw.githubusercontent.com/bkavlak/geospatial-artwork/main/collections/eye-sugla/eye-sugla-1920-1080-hq.jpeg"></div></a>
+<div align="center"><a href="https://github.com/bkavlak/geospatial-artwork"><img src="https://raw.githubusercontent.com/bkavlak/geospatial-artwork/main/collections/eye-sugla/eye-sugla-1920-1080-hq.jpeg"></a></div>
 
 ## 📫 How to reach me
 
