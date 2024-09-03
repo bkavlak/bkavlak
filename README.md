@@ -21,8 +21,6 @@ I am a self-taught data scientist/python engineer with a business management bac
 | :---:        |     :---:      |          :---: |
 |[![FOSS4GE 2024 - Where is the free, very high-resolution imagery?](https://img.youtube.com/vi/JO0ukEIBMkg/0.jpg)](https://www.youtube.com/watch?v=JO0ukEIBMkg) | [![FOSS4GE 2024 - Cloud-Native Asset Model with STAC](https://img.youtube.com/vi/crjgKKV-a_k/0.jpg)](https://www.youtube.com/watch?v=crjgKKV-a_k) | [![2023 - Standardized Data Management with STAC -Batuhan Kavlak & Sam Eglington](https://img.youtube.com/vi/WVE5VZzoOqM/0.jpg)](https://www.youtube.com/watch?v=WVE5VZzoOqM) |
 
-https://www.youtube.com/watch?v=crjgKKV-a_k
-
 ## 🧠 Know / Using
 
 <img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/r/r.png?raw=true" height="32" /> <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png?raw=true" height="32" /> <img src="https://www.osgeo.org/wp-content/uploads/gdal-logo-226x250.png" height="32" /> <img src="https://grass.osgeo.org/images/logos/grasslogo.svg" height="32" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png?raw=true" height="32" /> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" height="24" /> 
