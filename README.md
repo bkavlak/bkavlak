@@ -4,19 +4,28 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkavlak%2Fbkavlak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-I am a self-taught data scientist with a business management background.
+I am a self-taught data scientist/python engineer with a business management background.
 
-- :mag_right: I work as a data science engineer at the [UP42](https://up42.com).
-- :open_book: My main research interest is human perception. I decided to specialize in vision and hearing as the most interesting senses and focus on image and sound data. I mostly worked on image data while researching and practicing sound data as a hobby.
+- :mag_right: I work as a geospatial python engineer at the [UP42](https://up42.com).
+- :open_book: My main research interest is philosophy. So, all areas are in my research.
 - :hand: I am an advocate of **free and open science** for **equal opportunities**.
-- :computer: I can build workflows with **Python** or **R**.
+- :computer: I can build workflows/services with **Python** or **R**.
   - contributed to the early stages of Doktar's agricultural information system.
   - worked on R & GEE for projects like map classification and accuracy assessments.
-  - mostly working on UP42's new storage system integrating STAC into premium satellite images on Python.
+  - try to help people for disaster related use-cases.
+  - mostly working on UP42's projects.
+
+## 🎤 FOSS4G Talks
+
+|   Where is the free, very high-resolution imagery?      |     Cloud-Native Asset Model with STAC      |     Standardized Data Management with STAC      |
+| :---:        |     :---:      |          :---: |
+|[![FOSS4GE 2024 - Where is the free, very high-resolution imagery?](https://img.youtube.com/vi/JO0ukEIBMkg/0.jpg)](https://www.youtube.com/watch?v=JO0ukEIBMkg) | [![FOSS4GE 2024 - Cloud-Native Asset Model with STAC](https://img.youtube.com/vi/crjgKKV-a_k/0.jpg)](https://www.youtube.com/watch?v=crjgKKV-a_k) | [![2023 - Standardized Data Management with STAC -Batuhan Kavlak & Sam Eglington](https://img.youtube.com/vi/WVE5VZzoOqM/0.jpg)](https://www.youtube.com/watch?v=WVE5VZzoOqM) |
+
+https://www.youtube.com/watch?v=crjgKKV-a_k
 
 ## 🧠 Know / Using
 
-<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/r/r.png?raw=true" height="32" /> <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png?raw=true" height="32" /> <img src="https://www.osgeo.org/wp-content/uploads/gdal-logo-226x250.png" height="32" /> <img src="https://grass.osgeo.org/images/logos/grasslogo.svg" height="32" /> <img src="https://camo.githubusercontent.com/d0d0fede269644fda53cb19eb93c180bf0cce60b048649335082fbf3618adfa0/68747470733a2f2f6561727468656e67696e652e676f6f676c652e636f6d2f7374617469632f696d616765732f65617274682d656e67696e652d6c6f676f2e706e67?raw=true" height="32" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> 
+<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/r/r.png?raw=true" height="32" /> <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png?raw=true" height="32" /> <img src="https://www.osgeo.org/wp-content/uploads/gdal-logo-226x250.png" height="32" /> <img src="https://grass.osgeo.org/images/logos/grasslogo.svg" height="32" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png?raw=true" height="32" /> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" height="24" /> 
 <img src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" height="32" /> 
 
 
