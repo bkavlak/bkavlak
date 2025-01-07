@@ -10,7 +10,7 @@ I am a self-taught data scientist/python engineer with a business management bac
 - :open_book: My main research interest is philosophy. So, all areas are in my research.
 - :hand: I am an advocate of **free and open science** for **equal opportunities**.
 - :computer: I can build workflows/services with **Python** or **R**.
-  - contributed to the early stages of Doktar's agricultural information system.
+  - contributed to the early stages of [Doktar](https://www.doktar.com/en/)'s agricultural information system.
   - worked on R & GEE for projects like map classification and accuracy assessments.
   - try to help people for disaster related use-cases.
   - mostly working on UP42's projects.
