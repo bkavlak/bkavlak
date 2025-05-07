@@ -1,8 +1,6 @@
 ### Hi there, I am Batuhan! 👋
 
 ![](https://komarev.com/ghpvc/?username=bkavlak&color=red)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkavlak%2Fbkavlak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 I am a self-taught data scientist/python engineer with a business management background.
 
