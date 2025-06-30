@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=bkavlak&color=red)
 
-I am a self-taught data scientist/python engineer with a business management background.
+I am a self-taught data scientist/python engineer with a business management background, and hanging out in different disciplines.
 
-- :mag_right: I work as a geospatial python engineer at the [UP42](https://up42.com).
+- :mag_right: I work as a geospatial data engineer at the [UP42](https://up42.com).
 - :open_book: My main research interest is philosophy. So, all areas are in my research.
 - :hand: I am an advocate of **free and open science** for **equal opportunities**.
 - :computer: I can build workflows/services with **Python** or **R**.
