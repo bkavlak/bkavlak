@@ -7,7 +7,7 @@ i'm also a self-taught data scientist/python engineer with a business management
 and hanging out in different disciplines with my humanity research agenda.
 
 - :mag_right: I work as a geospatial data engineer at the [UP42](https://up42.com).
-- :open_book: My main research interest is philosophy. So, all areas are in my research.
+- :open_book: My main research interest is philosophy and mythology. So, all areas are in my research.
 - :hand: I am an advocate of **free and open science** for **equal opportunities**.
 - :computer: I can build workflows/services with **Python** or **R**.
   - contributed to the early stages of [Doktar](https://www.doktar.com/en/)'s agricultural information system.
