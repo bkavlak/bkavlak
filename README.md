@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=bkavlak&color=red)
 
-I am a self-taught data scientist/python engineer with a business management background, and hanging out in different disciplines.
+I am an actor but as it is horrible earn money as an ethical person with some dignity there,
+i'm also a self-taught data scientist/python engineer with a business management background,
+and hanging out in different disciplines with my humanity research agenda.
 
 - :mag_right: I work as a geospatial data engineer at the [UP42](https://up42.com).
 - :open_book: My main research interest is philosophy. So, all areas are in my research.
